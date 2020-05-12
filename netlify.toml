@@ -1,2 +1,5 @@
 [[plugins]]
-package = "./plugins.js"
+package = "./plugin1.js"
+
+[[plugins]]
+package = "./plugin2.js"
