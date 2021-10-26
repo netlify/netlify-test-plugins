@@ -1,8 +1,14 @@
 [[plugins]]
-package = "./should-fail-plugin.js"
+package = "./plugins/success"
 
 [[plugins]]
-package = "./should-fail-build.js"
+package = "./plugins/failed_plugin"
 
 [[plugins]]
-package = "./should-not-run.js"
+package = "./plugins/failed_plugin2"
+
+[[plugins]]
+package = "./plugins/canceled_build"
+
+[[plugins]]
+package = "./plugins/failed_build"
