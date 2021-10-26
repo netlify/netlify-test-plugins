@@ -1,5 +1,5 @@
 module.exports = {
   onPreBuild({ utils }) {
-    utils.build.cancelBuild();
+    utils.build.failBuild();
   },
 };

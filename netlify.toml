@@ -8,7 +8,7 @@ package = "./plugins/failed_plugin"
 package = "./plugins/failed_plugin2"
 
 [[plugins]]
-package = "./plugins/canceled_build"
+package = "./plugins/failed_build"
 
 [[plugins]]
-package = "./plugins/failed_build"
+package = "./plugins/failed_build2"
