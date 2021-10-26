@@ -6,9 +6,3 @@ package = "./plugins/failed_plugin"
 
 [[plugins]]
 package = "./plugins/failed_plugin2"
-
-[[plugins]]
-package = "./plugins/canceled_build"
-
-[[plugins]]
-package = "./plugins/failed_build"
