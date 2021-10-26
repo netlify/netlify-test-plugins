@@ -1,5 +1,3 @@
-[[plugins]]
-package = "./plugins/success"
 
 [[plugins]]
 package = "./plugins/failed_plugin"
